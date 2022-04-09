@@ -8,7 +8,7 @@ I'm studying Technology Systems Analysis at Fatec Ribeirão Preto, a public scho
     <div style="display:flex; justify-content: space-between">
       <a href="https://github.com/Jbnado">
       <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jbnado&show_icons=true&theme=radical">
-      <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbnado&layout=compact&langs_count=10&theme=radical">
+      <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbnado&layout=compact&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
     </div>
   </details>
 </div>
