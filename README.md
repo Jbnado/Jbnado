@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm João Bernardo, but please call me JB 😎!
-I'm studying Technology Systems Analysis at Fatec Ribeirão Preto, a public school.
+I'm studying Technology Systems Analysis at Fatec Ribeirão Preto, a public college.
 
 ##
 <div align="center">
