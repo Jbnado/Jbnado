@@ -1,12 +1,13 @@
 # Hi 👋, I'm João Bernardo, but please call me JB 😎!
 I'm studying Technology Systems Analysis at Fatec Ribeirão Preto, a public college.
 
-I'm a **Junior Full Stack Developer** at Target Sistemas a multinacional enterprise. My team developed in Angular(v10+) a monitoring system for promoter's distributors. The distributors can create surveys and tasks to promoters answer on clients, to know this answers we have the results and reports. The promoters also can send text of ocurrences or incidents in a chat builted with socket.io. I also learned Flutter to help the web development team.
+I'm a **Junior Full Stack Developer** at Smart Agents and Authorify a multinacional enterprise. 
 
 I love the front-end, and I'm always learning more about the back-end using Node.Js!
 
 ## The languages that I'm always improving my self in:
 
+HTML
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
