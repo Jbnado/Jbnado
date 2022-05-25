@@ -22,7 +22,7 @@ I love the front-end, and I'm always learning more about the back-end using Node
 <div align="center">
   <details open>
     <summary style="margin-bottom:10px;">GitHub stats 😁</summary>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jbnado&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jbnado&theme=monokai-metallian&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jbnado&theme=monokai-metallian&hide_border=true"/></a>
     <div style="display:flex; justify-content: space-between">
       <a href="https://github.com/Jbnado">
       <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jbnado&show_icons=true&theme=radical">
