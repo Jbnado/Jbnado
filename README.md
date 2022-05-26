@@ -25,7 +25,7 @@ I love the front-end, and I'm always learning more about the back-end using Node
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jbnado&theme=monokai-metallian&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jbnado&theme=monokai-metallian&hide_border=true"/></a>
     <div style="display:flex; justify-content: space-between">
       <a href="https://github.com/Jbnado">
-      <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jbnado&show_icons=true&theme=radical">
+      <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jbnado&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
       <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbnado&layout=compact&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
     </div>
   </details>
