@@ -1,7 +1,7 @@
 # Hi 👋, I'm João Bernardo, but please call me JB 😎!
 I'm studying Technology Systems Analysis at Fatec Ribeirão Preto, a public college.
 
-I'm a **Junior Full Stack Developer** at Smart Agents and Authorify a multinacional enterprise. 
+I'm a **Developer**. 
 
 I love the front-end, and I'm always learning more about the back-end using Node.Js!
 
