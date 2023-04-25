@@ -35,7 +35,7 @@ I love the front-end, and I'm always learning more about the back-end using Node
 ## Contact me:
 
 <a target="_blank" href="mailto:bernardojoao9@gmail.com?subject=Hello,%20JB%20"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-bernardoads/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/jbnado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <hr>
 
