@@ -1,9 +1,9 @@
 # Hi 👋, I'm João Bernardo, but please call me JB 😎!
 I'm studying Technology Systems Analysis at Fatec Ribeirão Preto, a public college.
 
-I'm a **Developer**. Working at Take&Go as Front End.
+I'm a **Developer**. Working at Take&Go as Fullstack (React - Java).
 
-I love the front-end, and I'm always learning more about the back-end using Node.Js!
+I love the front-end, and I'm always learning more about the back-end!
 
 ## The technologies that I'm always improving my self in:
 
